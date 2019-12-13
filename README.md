@@ -1,7 +1,5 @@
 # cgan-acgan-celeba-multi-label-pytorch
 
-# unet_colorization_pytorch
-
 Multi-label version cgan and acgan.
 
 For runing this program, you need:  
